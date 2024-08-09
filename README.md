@@ -6,7 +6,7 @@ Création d'une animation moving letters en HTML5, CSS3, JavaScript et avec la l
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/text_animation/
 
 ## Développez avec
 
