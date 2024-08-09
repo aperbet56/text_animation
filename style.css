@@ -1,0 +1,31 @@
+/**** Reset ***/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** Style général de la page ****/
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f7f7;
+}
+
+.text__animation {
+    color: #0000ff;
+    font-weight: 900;
+    font-size: 3.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.text__animation .letter {
+    display: inline-block;
+    line-height: 1em;
+}
